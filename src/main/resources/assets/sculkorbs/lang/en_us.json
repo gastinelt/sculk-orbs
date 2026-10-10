@@ -1,0 +1,21 @@
+{
+  "itemGroup.sculkorbs": "Sculk Orbs & Perfect Enchant",
+  "item.sculkorbs.massive_orb": "Massive Orb",
+  "item.sculkorbs.giant_orb": "Giant Orb",
+  "item.sculkorbs.colossal_orb": "Colossal Orb",
+  "item.sculkorbs.mythic_orb": "Mythic Orb",
+  "item.sculkorbs.maximal_orb": "Maximal Orb",
+  "item.sculkorbs.perfect_enchant_1": "Perfect Enchant I",
+  "item.sculkorbs.perfect_enchant_2": "Perfect Enchant II",
+  "item.sculkorbs.perfect_enchant_3": "Perfect Enchant III",
+  "item.sculkorbs.perfect_enchant_4": "Perfect Enchant IV",
+  "item.sculkorbs.perfect_enchant_5": "Perfect Enchant V",
+  "tooltip.sculkorbs.drop_rate": "§7Drop Rate: §e%s",
+  "tooltip.sculkorbs.xp_gain": "§7Experience: §a+%s XP",
+  "tooltip.sculkorbs.use_hint": "Right click to consume",
+  "tooltip.sculkorbs.perfect_enchant_tier": "§6§lTier : %s",
+  "tooltip.sculkorbs.perfect_enchant_desc": "Combine with equipment in an anvil",
+  "tooltip.sculkorbs.perfect_enchant_max": "Applies the best enchantments up to level §e%s",
+  "tooltip.sculkorbs.craft_hint_t1": "Craft: 64 sculk blocks in crafting grid",
+  "tooltip.sculkorbs.craft_hint_tn": "Craft: Perfect Enchant %s + 64 sculk blocks"
+}

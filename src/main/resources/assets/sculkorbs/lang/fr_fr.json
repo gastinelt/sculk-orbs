@@ -1,0 +1,21 @@
+{
+  "itemGroup.sculkorbs": "Sculk Orbs & Perfect Enchant",
+  "item.sculkorbs.massive_orb": "Orbe Massif",
+  "item.sculkorbs.giant_orb": "Orbe Géant",
+  "item.sculkorbs.colossal_orb": "Orbe Colossal",
+  "item.sculkorbs.mythic_orb": "Orbe Mythique",
+  "item.sculkorbs.maximal_orb": "Orbe Maximal",
+  "item.sculkorbs.perfect_enchant_1": "Enchantement Parfait I",
+  "item.sculkorbs.perfect_enchant_2": "Enchantement Parfait II",
+  "item.sculkorbs.perfect_enchant_3": "Enchantement Parfait III",
+  "item.sculkorbs.perfect_enchant_4": "Enchantement Parfait IV",
+  "item.sculkorbs.perfect_enchant_5": "Enchantement Parfait V",
+  "tooltip.sculkorbs.drop_rate": "§7Taux d'apparition: §e%s",
+  "tooltip.sculkorbs.xp_gain": "§7Expérience: §a+%s XP",
+  "tooltip.sculkorbs.use_hint": "Faites un clic droit pour consommer",
+  "tooltip.sculkorbs.perfect_enchant_tier": "§6§lRang : %s",
+  "tooltip.sculkorbs.perfect_enchant_desc": "Combinez avec un équipement dans une enclume",
+  "tooltip.sculkorbs.perfect_enchant_max": "Applique les meilleurs enchantements jusqu'au niveau §e%s",
+  "tooltip.sculkorbs.craft_hint_t1": "Craft : 64 blocs de sculk dans la grille",
+  "tooltip.sculkorbs.craft_hint_tn": "Craft : Enchantement Parfait %s + 64 blocs de sculk"
+}

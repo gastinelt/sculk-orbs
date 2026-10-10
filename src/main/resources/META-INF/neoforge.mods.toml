@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="sculkorbs"
+version="1.0.0"
+displayName="Sculk Orbs"
+authors="Théo Gastinel"
+description='''Mod ajoutant 5 types d'orbes mystiques et d'expérience avec des probabilités configurées en minant des blocs de sculk.'''
+
+[[dependencies.sculkorbs]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sculkorbs]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.21.2)"
+    ordering="NONE"
+    side="BOTH"
