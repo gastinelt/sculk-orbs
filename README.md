@@ -32,4 +32,4 @@ Le fichier `.jar` est produit dans `build/libs/`.
 
 ## Licence
 
-[MIT](LICENSE). Les textures du dépôt sont l'œuvre de l'auteur.
+[MIT](LICENSE).
